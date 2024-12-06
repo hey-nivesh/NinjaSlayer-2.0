@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class day_two {
+public class day_2 {
 
 
 	public static void main(String[] args) {

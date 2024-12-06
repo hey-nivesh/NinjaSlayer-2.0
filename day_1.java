@@ -8,7 +8,7 @@
 // You are given the choice 'ch' and an array 'a'.
 // If ‘ch’ is 1, ‘a’ contains a single number ‘r’. If ‘ch’ is 2, ‘a’ contains 2 numbers, ‘l’ and ‘b’.
 // Consider the choice and print the appropriate area.
-public class day_one{
+public class day_1{
     public static double areaSwitchCase(int ch, double[] arr){
         if (ch==1){
             double r = arr[0];

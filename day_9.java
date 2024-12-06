@@ -7,7 +7,7 @@
 // Input: ‘n’ = 5, ‘a’ = [1, 2, 3, 4, 5]
 // Output: [4, 2]
 // The second largest element after 5 is 4, and the second smallest element after 1 is 2.
-public class day_nine {
+public class day_9 {
     
     public static int[] getSecondOrderElements(int n, int []a) {
         // Write your code here.

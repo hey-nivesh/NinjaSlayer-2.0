@@ -12,7 +12,7 @@
 // If the given array is {0,2}, the returned array should be {3}.
 import java.util.ArrayList;
 
-public class day_twelve {
+public class day_12 {
     
 public static ArrayList<Integer> addOneToNumber(ArrayList<Integer> arr)
     {

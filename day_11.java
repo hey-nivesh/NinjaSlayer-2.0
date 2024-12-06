@@ -15,7 +15,7 @@
 // Sam can buy 4 pages book and 1 page book.
 import java.util.HashSet;
 
-public class day_eleven {
+public class day_11 {
     
     public static String read(int n, int []book, int target){
         // Write your code here.

@@ -7,7 +7,7 @@
 // Output: 3
 // Explanation:
 // The 3 digits in ‘123’ are 1, 2 and 3. 
-public class day_three {
+public class day_3 {
     public static int countDigits(int n){
         // Write your code here.
         if (n==0){

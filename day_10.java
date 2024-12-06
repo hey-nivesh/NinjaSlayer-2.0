@@ -14,7 +14,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class day_ten {
+public class day_10 {
     
     public static int[] getFrequencies(int []v) {
         // Write Your Code Here

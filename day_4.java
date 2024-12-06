@@ -7,7 +7,7 @@
 // Input: 'n' = 5
 // Output: YES
 // Explanation: 5 is only divisible by 1 and 5. 2, 3 and 4 do not divide 5.
-public class day_four {
+public class day_4 {
     
     public static boolean isPrime(int n) {
         //Your code goes here

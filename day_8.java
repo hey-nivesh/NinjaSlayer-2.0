@@ -9,7 +9,7 @@
 // Output: 2
 // Explanation:
 // Here, gcd(4,6) = 2, because 2 is the largest positive integer that divides both 4 and 6.
-public class day_eight {
+public class day_8 {
     
     public static int calcGCD(int a, int b){
         // Write your code here.

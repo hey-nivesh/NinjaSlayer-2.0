@@ -10,7 +10,7 @@
 // Output: [3, 6, 1, 8, 7, 5]
 
 // Explanation: After reversing the array, it looks like this [3, 6, 1, 8, 7, 5].
-public class day_seven {
+public class day_7 {
     
     public static int[] reverseArray(int n, int []nums) {
         // Write your code here.

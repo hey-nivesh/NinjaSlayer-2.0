@@ -5,7 +5,7 @@
 // If 'target' is not present in the array 'A', return -1.
 // Note:
 // You must write an algorithm whose time complexity is O(LogN)
-public class day_thirteen {
+public class day_13 {
     
     public static int search(int []nums, int target) {
         // Write your code here.

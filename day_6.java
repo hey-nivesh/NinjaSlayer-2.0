@@ -6,7 +6,7 @@
 // Reverse of ‘n’ means an integer where, 
 // the most significant digit of ‘n’ is the least significant digit of the number, 
 // the second most significant digit of ‘n’ is the second least significant digit of the number and so on.
-public class day_six {
+public class day_6 {
     
     public static int reverseNumber(int n) {
         // Write your code here
